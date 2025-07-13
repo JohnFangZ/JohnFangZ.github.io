@@ -1,8 +1,3 @@
----
-layout: default
-title: "Zhong Fang"  
----
-
 
 # Geek Profile
 Write your profile in Markdown and publish it on GitHub Page.
