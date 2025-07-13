@@ -5,7 +5,7 @@ Prior to joining UW, I got my Bachelor's degree in Applied Mathematics at <a hre
 Currently, my work focuses on the optimization and control of cyber-physical systems.
 
 <div align="center">
-CV
+<a href="mailto:z4fang@uwaterloo.ca">z4fang [at] uwaterloo.ca</a> / CV
 </div>
 
 ## Publications
