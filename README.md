@@ -12,7 +12,7 @@ yarn
 ## Publications
 __Hybrid State Space and Frequency Domain System Level Synthesis for Sparsity-Promoting H2/Hinf Control Design__  
 Z. Fang and M. W. Fisher  
-<a href="https://cdc2024.ieeecss.org/"><i>2024 IEEE 63rd Conference on Decision and Control (CDC)</i></a> [<a href="https://JohnFangZ.github.io/file/24CDC.pdf#toolbar=0" target="_blank" rel="noopener">paper</a>]
+<a href="https://cdc2024.ieeecss.org/"><i>2024 IEEE 63rd Conference on Decision and Control (CDC)</i></a> [<a href="https://JohnFangZ.github.io/file/24CDC.pdf">paper</a>]
 
 
 ## Build
