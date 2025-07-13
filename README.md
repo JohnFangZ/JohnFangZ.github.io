@@ -4,6 +4,10 @@ of Complex Systems (DOCS) Group at <a href="https://uwaterloo.ca/">University of
 Prior to joining UW, I got my Bachelor's degree in Applied Mathematics at <a href="https://en.whu.edu.cn/">Wuhan University</a>. 
 Currently, my work focuses on the optimization and control of cyber-physical systems.
 
+<div align="center">
+CV
+</div>
+
 ## Publications
 <b>Hybrid State Space and Frequency Domain System Level Synthesis for Sparsity-Promoting H2/Hinf Control Design</b>  
 Z. Fang and M. W. Fisher  
@@ -14,4 +18,5 @@ Z. Fang and M. W. Fisher
 yarn run build
 ```
 Static website will be generated at `profile/public`.
+
 
