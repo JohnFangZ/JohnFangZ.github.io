@@ -13,10 +13,11 @@ Currently, my work focuses on the optimization and control of cyber-physical sys
 Z. Fang and M. W. Fisher  
 <a href="https://cdc2024.ieeecss.org/"><i>2024 IEEE 63rd Conference on Decision and Control (CDC)</i></a> [<a href="https://JohnFangZ.github.io/file/24CDC.pdf">paper</a>]
 
+<!--
 ## Build
 ```bash
 yarn run build
 ```
 Static website will be generated at `profile/public`.
 
-
+-->
