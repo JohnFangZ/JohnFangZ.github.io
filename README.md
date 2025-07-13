@@ -3,7 +3,6 @@ I'm a 2nd-year Master student advised by <a href="https://michaelwfisher.github.
 of Complex Systems (DOCS) Group at <a href="https://uwaterloo.ca/">University of Waterloo</a>. 
 Prior to joining UW, I got my Bachelor's degree in Applied Mathematics at <a href="https://en.whu.edu.cn/">Wuhan University</a>. 
 Currently, my work focuses on the optimization and control of cyber-physical systems.
-- Demo: http://hackjutsu.com/geek-profile/
 
 ## Bootstrap
 ```bash
@@ -13,7 +12,8 @@ yarn
 ## Publications
 __Hybrid State Space and Frequency Domain System Level Synthesis for Sparsity-Promoting H2/Hinf Control Design__  
 Z. Fang and M. W. Fisher  
-<a href="https://cdc2024.ieeecss.org/"><i>2024 IEEE 63rd Conference on Decision and Control (CDC)</i></a> [<a href="https://JohnZFang.github.io/file/Z_Fang_M_Fisher_24CDC_final.pdf">paper</a>]
+<a href="https://cdc2024.ieeecss.org/"><i>2024 IEEE 63rd Conference on Decision and Control (CDC)</i></a> [<a href="https://JohnZFang.github.io/file/Z_Fang_M_Fisher_24CDC_final.pdf#view=FitH" target="_blank" rel="noopener">paper</a>]
+
 
 ## Build
 ```bash
