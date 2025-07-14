@@ -1,3 +1,5 @@
+<title>John Zhang</title>
+
 # About Me
 I'm a 2nd-year Master student advised by <a href="https://michaelwfisher.github.io/">Prof. Michael W. Fisher</a> in the Dynamics, Control, and Optimization 
 of Complex Systems (DOCS) Group at <a href="https://uwaterloo.ca/">University of Waterloo</a>. 
