@@ -15,6 +15,7 @@ Z. Fang and M. W. Fisher
 
 ## Presentations
 <b>MASc Seminar</b>
+
 [<a href="https://JohnFangZ.github.io/file/MASc_Seminar.pdf">slides</a>]
 
 
