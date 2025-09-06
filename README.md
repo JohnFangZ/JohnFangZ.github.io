@@ -14,7 +14,8 @@ Z. Fang and M. W. Fisher
 <a href="https://cdc2024.ieeecss.org/"><i>2024 IEEE 63rd Conference on Decision and Control (CDC)</i></a> [<a href="https://JohnFangZ.github.io/file/24CDC.pdf">paper</a>]
 
 ## Presentations
-<b>MASc Seminar</b><br>
+<b>Convex Reparameterizations for Efficient Mixed H2/Hinf Feedback Control</b>
+MASc Seminar
 [<a href="https://JohnFangZ.github.io/file/MASc_Seminar.pdf">slides</a>]
 
 
