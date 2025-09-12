@@ -9,6 +9,10 @@ Currently, my work focuses on the optimization and control of cyber-physical sys
 </div>
 
 ## Publications
+<b>Constrained H2/Hinf Control Design of Dynamic Virtual Power Plants via System Level Synthesis and Simple Pole Approximation</b><br>
+Z. Fang and M. W. Fisher<br>
+<a href="https://epec2025.ieee.ca/"><i>2025 IEEE Electrical Power and Energy Conference (EPEC)</i></a> [<a href="https://JohnFangZ.github.io/file/25EPEC.pdf">paper</a>]
+
 <b>Hybrid State Space and Frequency Domain System Level Synthesis for Sparsity-Promoting H2/Hinf Control Design</b><br>
 Z. Fang and M. W. Fisher<br>
 <a href="https://cdc2024.ieeecss.org/"><i>2024 IEEE 63rd Conference on Decision and Control (CDC)</i></a> [<a href="https://JohnFangZ.github.io/file/24CDC.pdf">paper</a>]
