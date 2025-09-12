@@ -1,6 +1,6 @@
 # About Me
-I'm a 2nd-year Master student advised by <a href="https://michaelwfisher.github.io/">Prof. Michael W. Fisher</a> in the Dynamics, Control, and Optimization 
-of Complex Systems (DOCS) Group at <a href="https://uwaterloo.ca/">University of Waterloo</a>. 
+I'm a research assistant advised by <a href="https://michaelwfisher.github.io/">Prof. Michael W. Fisher</a> in the Dynamics, Control, and Optimization 
+of Complex Systems (DOCS) Group at <a href="https://uwaterloo.ca/">University of Waterloo</a>, where I also completed my Master's degree. 
 Prior to joining UW, I got my Bachelor's degree in Applied Mathematics at <a href="https://en.whu.edu.cn/">Wuhan University</a>. 
 Currently, my work focuses on the optimization and control of cyber-physical systems.
 
