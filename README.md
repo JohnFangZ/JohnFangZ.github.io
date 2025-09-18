@@ -8,6 +8,10 @@ My current work focuses on the optimization and control of cyber-physical system
 <a href="mailto:z4fang@uwaterloo.ca">z4fang[at]uwaterloo.ca</a> / CV
 </div>
 
+## Thesis
+<b>Convex Reparameterizations for Efficient Mixed H2/Hinf Feedback Control</b><br>
+<a href="https://uwspace.uwaterloo.ca/items/3c7da7ae-682e-401d-9b15-611136405fd4"><i>University of Waterloo</i></a> [<a href="https://JohnFangZ.github.io/file/ZF_Thesis.pdf">thesis</a>]
+
 ## Publications
 <b>Constrained H2/Hinf Control Design of Dynamic Virtual Power Plants via System Level Synthesis and Simple Pole Approximation</b><br>
 Z. Fang and M. W. Fisher<br>
