@@ -31,8 +31,8 @@ Z. Fang and M. W. Fisher<br>
 <a href="https://cdc2024.ieeecss.org/"><i>2024 IEEE 63rd Conference on Decision and Control (CDC)</i></a> [<a href="https://JohnFangZ.github.io/file/24CDC.pdf">paper</a>]
 
 ## Presentations
-<b>Invited Seminar, Steven Low's Group</b><br>
-2025 Oct
+<b>Convex Reparameterizations for Efficient Mixed H2/Hinf Feedback Control</b><br>
+Invited Seminar, Professor Steven Low's Group Meeting, October 2025
 
 <b>Constrained H2/Hinf Control Design of Dynamic Virtual Power Plants via System Level Synthesis and Simple Pole Approximation</b><br>
 <a href="https://epec2025.ieee.ca/"><i>2025 IEEE Electrical Power and Energy Conference (EPEC)</i></a> [<a href="https://JohnFangZ.github.io/file/25EPEC_Slides.pdf">slides</a>]
