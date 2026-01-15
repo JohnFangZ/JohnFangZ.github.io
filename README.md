@@ -13,6 +13,10 @@ My current work focuses on the optimization and control of cyber-physical system
 <a href="https://uwspace.uwaterloo.ca/items/3c7da7ae-682e-401d-9b15-611136405fd4"><i>University of Waterloo</i></a> [<a href="https://JohnFangZ.github.io/file/ZF_Thesis.pdf">thesis</a>]
 
 ## Publications
+<b>Continuous Time System Level Synthesis for Mixed H2/Hinf Control Design Using Simple Pole Approximation</b><br>
+Z. Fang and M. W. Fisher<br>
+<i>Underreview by IEEE TAC</i> [<a href="https://JohnFangZ.github.io/file/26TAC_SPA_CT.pdf">paper</a>]
+
 <b>Constrained H2/Hinf Control Design of Dynamic Virtual Power Plants via System Level Synthesis and Simple Pole Approximation</b><br>
 Z. Fang and M. W. Fisher<br>
 <a href="https://epec2025.ieee.ca/"><i>2025 IEEE Electrical Power and Energy Conference (EPEC)</i></a> [<a href="https://JohnFangZ.github.io/file/25EPEC.pdf">paper</a>]
