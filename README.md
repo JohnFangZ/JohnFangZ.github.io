@@ -32,6 +32,7 @@ Z. Fang and M. W. Fisher<br>
 
 ## Presentations
 <b>Invited Seminar, Steven Low's Group</b>
+2025 Oct
 
 <b>Constrained H2/Hinf Control Design of Dynamic Virtual Power Plants via System Level Synthesis and Simple Pole Approximation</b><br>
 <a href="https://epec2025.ieee.ca/"><i>2025 IEEE Electrical Power and Energy Conference (EPEC)</i></a> [<a href="https://JohnFangZ.github.io/file/25EPEC_Slides.pdf">slides</a>]
