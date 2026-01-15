@@ -31,7 +31,7 @@ Z. Fang and M. W. Fisher<br>
 <a href="https://cdc2024.ieeecss.org/"><i>2024 IEEE 63rd Conference on Decision and Control (CDC)</i></a> [<a href="https://JohnFangZ.github.io/file/24CDC.pdf">paper</a>]
 
 ## Presentations
-<b>Invited Seminar, Steven Low's Group</b>
+<b>Invited Seminar, Steven Low's Group</b><br>
 2025 Oct
 
 <b>Constrained H2/Hinf Control Design of Dynamic Virtual Power Plants via System Level Synthesis and Simple Pole Approximation</b><br>
