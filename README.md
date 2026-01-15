@@ -16,11 +16,11 @@ My current work focuses on the optimization and control of cyber-physical system
 ## Publications
 <b>Continuous Time System Level Synthesis for Mixed H2/Hinf Control Design Using Simple Pole Approximation</b><br>
 Z. Fang and M. W. Fisher<br>
-<i>Under review by IEEE Transactions on Automatic Control</i> [<a href="https://JohnFangZ.github.io/file/26TAC_SPA_CT.pdf">paper</a>]
+Under review by <i>IEEE Transactions on Automatic Control</i> [<a href="https://JohnFangZ.github.io/file/26TAC_SPA_CT.pdf">paper</a>]
 
 <b>Convex Reparameterizations for Mixed H2/Hinf Output Feedback Control Design</b><br>
 Z. Fang and M. W. Fisher<br>
-<i>In preparation for IEEE Transactions on Automatic Control</i> 
+In preparation for <i>IEEE Transactions on Automatic Control</i> 
 
 <b>Constrained H2/Hinf Control Design of Dynamic Virtual Power Plants via System Level Synthesis and Simple Pole Approximation</b><br>
 Z. Fang and M. W. Fisher<br>
